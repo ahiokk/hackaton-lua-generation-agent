@@ -1,0 +1,41 @@
+<svg width="1200" height="516" viewBox="0 0 1200 516" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="516" rx="28" fill="#F5F1E8"/>
+  <rect x="28" y="28" width="1144" height="460" rx="24" fill="#FCFBF8" stroke="#D8CFC1" stroke-width="2"/>
+  <line x1="620" y1="64" x2="620" y2="460" stroke="#D8CFC1" stroke-width="2"/>
+
+  <text x="64" y="84" fill="#6E756F" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">ML-проект</text>
+
+  <text x="64" y="142" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="800">LocalScript</text>
+  <text x="64" y="194" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Локальная агентская система</text>
+  <text x="64" y="230" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">для генерации Lua-кода</text>
+
+  <text x="64" y="302" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="19">Хакатон МТС True Tech Hack 2026, трек LocalScript,</text>
+  <text x="64" y="330" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="19">локальная работа без внешних AI API.</text>
+
+  <text x="64" y="386" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Автор</text>
+  <text x="64" y="414" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="20">Telegram: @ah1ok</text>
+  <text x="64" y="440" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="20">Email: irakli1408@yandex.ru</text>
+  <text x="64" y="466" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="20">Чикобава Иракли</text>
+
+  <text x="656" y="86" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Pipeline</text>
+
+  <rect x="656" y="104" width="484" height="82" rx="16" fill="#FCFBF8" stroke="#D8CFC1" stroke-width="2"/>
+  <text x="676" y="132" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">1. Анализ задачи</text>
+  <text x="676" y="156" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">Определение режима работы, формата ответа</text>
+  <text x="676" y="178" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">и необходимости уточнения.</text>
+
+  <rect x="656" y="197" width="484" height="82" rx="16" fill="#FCFBF8" stroke="#D8CFC1" stroke-width="2"/>
+  <text x="676" y="225" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">2. Подбор примеров</text>
+  <text x="676" y="249" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">Подбор релевантных примеров из локальной базы</text>
+  <text x="676" y="271" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">для усиления генерации.</text>
+
+  <rect x="656" y="290" width="484" height="82" rx="16" fill="#FCFBF8" stroke="#D8CFC1" stroke-width="2"/>
+  <text x="676" y="318" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">3. Генерация и цикл исправления</text>
+  <text x="676" y="342" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">Генерация через локальный Ollama и исправление</text>
+  <text x="676" y="364" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">ответа по диагностике валидатора.</text>
+
+  <rect x="656" y="383" width="484" height="82" rx="16" fill="#FCFBF8" stroke="#D8CFC1" stroke-width="2"/>
+  <text x="676" y="411" fill="#2B3130" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="800">4. Валидация</text>
+  <text x="676" y="435" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">Проверка формата ответа, доменных правил</text>
+  <text x="676" y="457" fill="#5E6566" font-family="Segoe UI, Arial, sans-serif" font-size="16">и синтаксиса Lua через luac.</text>
+</svg>
